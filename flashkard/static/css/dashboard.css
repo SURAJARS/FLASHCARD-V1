@@ -1,0 +1,52 @@
+body{
+    background-image: URL(IMG_1780.jpg);
+    background-position: center;
+    background-size:cover;
+    
+    background-repeat: no-repeat;
+
+}
+.bt{
+    width:20px;
+    height:20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+header{
+    background-color:gold;
+}
+footer{
+    background-color:gold;
+}
+.close{
+    color:brown;
+}
+.btn{
+    color:crimson;
+    font-weight: 500;
+    font-size:x-large;
+}
+.btn .hover{
+    color:darkgoldenrod;
+}
+.card{
+    border-radius: 15px;
+    border-color: darkred;
+    background:#F0E68C;
+    padding: 2px;
+    width: fit-content;
+    height: fit-content;
+}
+.btn-group{
+    border-radius: 15px;
+    border-color: darkred;
+    background:#FFFF00;
+    padding: 2px;
+    width: fit-content;
+    height: fit-content;
+}
+.front{
+    position: center;
+    font-weight:500;
+    font-size:x-large;
+}
